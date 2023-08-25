@@ -12,9 +12,9 @@ goto :main
 
 :help
 echo Usage:
-echo    add-windows-user-recursively.bat ^<total of connections^> ^<username base^>
+echo    create-win-users.bat ^<total of connections^> ^<username base^>
 echo Example:
-echo    add-windows-user-recursively.bat 50 user
+echo    create-win-users.bat 50 user
 goto :end
 
 :main
